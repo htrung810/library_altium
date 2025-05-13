@@ -1,2 +1,2 @@
 # library_altium
-lib altium
+lib _ htrung
